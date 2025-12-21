@@ -1,0 +1,4 @@
+- 翻译自陈宇老师的[2025秋算法设计与分析课件](https://yuchen1024.github.io/teaching/algorithm/algorithm.html)
+- 翻译仅供参考
+- 图片和复杂的图表请对照英文课件
+- 缺少[lec0](https://yuchen1024.github.io/teaching/algorithm/lecture_slides/Lec%200%20-%20Course_Information.pdf),[lec11](https://yuchen1024.github.io/teaching/algorithm/lecture_slides/Lec%2011%20-%20Backtrack%20(I).pdf),[lec12](https://yuchen1024.github.io/teaching/algorithm/lecture_slides/Lec%2012%20-%20Backtrack%20(II).pdf),[lec14](https://yuchen1024.github.io/teaching/algorithm/lecture_slides/Lec%2014%20-%20Randomized_Algorithm.pdf)的翻译
