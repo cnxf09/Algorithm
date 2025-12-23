@@ -2,4 +2,4 @@
 - 翻译仅供参考
 - 图片和复杂的图表请对照英文课件
   - 为了方便对照,中英文课件的页码是对应的,所以某些未翻译的页面留空
-- 缺少[lec0](https://yuchen1024.github.io/teaching/algorithm/lecture_slides/Lec%200%20-%20Course_Information.pdf),[lec11](https://yuchen1024.github.io/teaching/algorithm/lecture_slides/Lec%2011%20-%20Backtrack%20(I).pdf),[lec12](https://yuchen1024.github.io/teaching/algorithm/lecture_slides/Lec%2012%20-%20Backtrack%20(II).pdf)的翻译
+- 缺少[lec0](https://yuchen1024.github.io/teaching/algorithm/lecture_slides/Lec%200%20-%20Course_Information.pdf)的翻译
